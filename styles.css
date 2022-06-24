@@ -24,13 +24,13 @@ main {
     z-index: 0;
 }
 figure {
-    background-image: url('viaduc.jpg');
+    background-image: url('media/img/viaduc.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     height: 40vh;
 }
 aside {
-    background-image: url('map.png');
+    background-image: url('media/img/map.png');
     background-size: cover;
     background-repeat: no-repeat;
     width: 40vw;
@@ -58,22 +58,22 @@ div {
 }
 @keyframes slide {
     0% {
-        background-image: url(01.jpeg);
+        background-image: url(media/img/01.jpeg);
     }
     20% {
-        background-image: url(02.jpg);
+        background-image: url(media/img/02.jpg);
     }
     40% {
-        background-image: url(03.jpg);
+        background-image: url(media/img/03.jpg);
     }
     60% {
-        background-image: url(04.jpg);
+        background-image: url(media/img/04.jpg);
     }
     80% {
-        background-image: url(05.jpg);
+        background-image: url(media/img/05.jpg);
     }
     100% {
-        background-image: url(01.jpeg);
+        background-image: url(media/img/01.jpeg);
     }
 }
 footer {
